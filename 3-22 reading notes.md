@@ -18,15 +18,15 @@ EMNLP 2015 best paper
 
 DA cell设计上也很简单。初始输入是one-hot向量，通过一个门控进行更新。同时这个输出的结果会对LSTM cell的当前细胞状态产生影响。
 
-![image-20210322135121766](pic\3-22-reading1.png)
+![image-20210322135121766](pic/3-22-reading1.png)
 
-![image-20210322135741067](D:\Research\NLG survey\pic\3-22-reading2.png)
+![image-20210322135741067](pic/3-22-reading2.png)
 
 初始词向量没有encoder，而是直接使用了GloVe词向量(2014) dropout(2014)
 
 #### Experiment
 
-![image-20210322140242888](pic\3-22-reading3.png)
+![image-20210322140242888](pic/3-22-reading3.png)
 
 从这个可视化的图中可以发现，gate真的在不断的控制其中数值的one-hot数值的下降。确实是做到了效果。
 
