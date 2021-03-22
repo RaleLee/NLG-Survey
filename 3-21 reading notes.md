@@ -24,7 +24,7 @@ meaning representation -- MR -- slot pair
 
 但是两个GRU会共享一套dictionary
 
-![image-20210321162503784](D:\Research\NLG survey\pic\3-21-reading1.png)
+![image-20210321162503784](pic\3-21-reading1.png)
 
 ### Meta-Learning for Low-resource Natural Language Generation in Task-oriented Dialogue Systems
 
@@ -40,7 +40,7 @@ base on MAML 这种元学习方法主要是：通过多种训练任务T及其对
 
 
 
-![image-20210321190019934](D:\Research\NLG survey\pic\3-21-reading2.png)
+![image-20210321190019934](pic\3-21-reading2.png)
 
 ##### Domain Adaptation
 
@@ -83,9 +83,9 @@ EMNLP-20 Google long paper
 
 
 
-![image-20210321212403377](D:\Research\NLG survey\pic\3-21-reading3.png)
+![image-20210321212403377](pic\3-21-reading3.png)
 
-![image-20210321212422976](D:\Research\NLG survey\pic\3-21-reading4.png)
+![image-20210321212422976](pic\3-21-reading4.png)
 
 ##### Naive Representation
 
