@@ -6,7 +6,7 @@ EMNLP 2019 MS Research short paper
 
 #### Motivation
 
-很多研究可以生成语义上正确的回复，但是不能生成流畅、human-liked language。提出一个NLG-LM架构，可以生成高质量更自然的回复。其实是一个多任务框架，同时训练language model 和任务型对话生成，而且language model、
+很多研究可以生成语义上正确的回复，但是不能生成流畅、human-liked language。提出一个NLG-LM架构，可以生成高质量更自然的回复。其实是一个多任务框架，同时训练language model 和任务型对话生成.
 
 #### Problem Description
 
@@ -16,7 +16,7 @@ meaning representation -- MR -- slot pair
 
 #### Conclusion
 
-其实就是一个多任务框架，两个都是用GRU编码，Decoder双GPU设计。
+其实就是一个多任务框架，两个都是用GRU编码，Decoder双GRU设计。
 
 针对NLG的decoder-GRU还会对encoder编码的信息做attention
 

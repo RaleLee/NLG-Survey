@@ -54,7 +54,7 @@ SIGDIAL 2015 best paper
 
 
 
-结构上比较简单，其实就是一个RNN结构加上一个控制色semantic的gate。与上一篇不一样的是，这里输入的word vector是one-hot。dialog act也是其中信息的one-hot拼接。
+结构上比较简单，其实就是一个RNN结构加上一个控制semantic的gate。与上一篇不一样的是，这里输入的word vector是one-hot。dialog act也是其中信息的one-hot拼接。
 
 但是这里的门机制和上一篇不一样的地方在于，这里只是单纯的使用了一个与小于1的变化数的乘积来控制输入的semantic信息，相较于上一篇使用了可训练的矩阵和激活函数来控制，是一个弱化版。
 
