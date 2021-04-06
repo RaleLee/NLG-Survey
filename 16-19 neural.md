@@ -2,17 +2,21 @@
 
 ### [Multi-view response selection for human-computer conversation](https://www.aclweb.org/anthology/D16-1036.pdf)——ACL2016-- 不是tod
 
-Sequence-to-Sequence Generation for Spoken Dialogue via Deep Syntax Trees and Strings——ACL2016
+Sequence-to-Sequence Generation for Spoken Dialogue via Deep Syntax Trees and Strings——ACL2016 -- 已读
 
-### [Deep reinforcement learning for dialogue generation](https://arxiv.org/abs/1606.01541)
+## [What to talk about and how? Selective Generation using LSTMs with Coarse-to-Fine Alignment](https://www.aclweb.org/anthology/N16-1086.pdf)  --NAACL 2016
 
-### [How not to evaluate your dialogue system: An empirical study of unsupervised evaluation metrics for dialogue response generation](https://arxiv.org/abs/1603.08023)
+### [Deep reinforcement learning for dialogue generation](https://arxiv.org/abs/1606.01541)-不是tod
 
-### [A persona-based neural conversation model](https://arxiv.org/abs/1603.06155)
+### [How not to evaluate your dialogue system: An empirical study of unsupervised evaluation metrics for dialogue response generation](https://arxiv.org/abs/1603.08023)-不是tod
 
-Scaling a Natural Language Generation System——ACL16
+### [A persona-based neural conversation model](https://arxiv.org/abs/1603.06155)-不是tod
 
-Multi-domain neural network language generation for spoken dialogue systems. 
+Scaling a Natural Language Generation System——ACL16--不是tod
+
+Multi-domain neural network language generation for spoken dialogue systems. --已读
+
+A Context-aware Natural Language Generator for Dialogue Systems -- 已读
 
 ## 2017
 
