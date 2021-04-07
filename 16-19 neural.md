@@ -44,11 +44,11 @@ Adversarial domain adaptation for variational neural language generation in dial
 
 ## 2019
 
-**[Boosting Dialog Response Generation](https://www.aclweb.org/anthology/P19-1005/)**——ACL19
+**[Boosting Dialog Response Generation](https://www.aclweb.org/anthology/P19-1005/)**——ACL19-- 不是tod
 
- Constrained decoding for neural NLG from compositional representations in task-oriented dialogue.
+ Constrained decoding for neural NLG from compositional representations in task-oriented dialogue. -- 已读
 
-A simple recipe towards reducing hallucination in neural surface realisation.——ACL19
+A simple recipe towards reducing hallucination in neural surface realisation.——ACL19 -- 已读
 
 ## 2020
 
