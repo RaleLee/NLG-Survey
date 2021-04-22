@@ -54,9 +54,24 @@ self-training的迭代更新过程：
 
 
 
-## The E2E dataset: New challenges for endto-end generation. 
+## The E2E dataset: New challenges for end-to-end generation. 
 
-SIGDIAL 2016
+SIGDIAL 2017
 
 ### Motivation
 
+做个多一点的，难一点的，NLG数据集。
+
+但是问题在于，为啥没有DA呢？
+
+baseline model就是自己的TENG--seq2seq+attn
+
+![image-20210408101052388](pic/4-7-reading6.png)
+
+可以注意到的是，它这里每个MR的reference特别多
+
+![image-20210408101139534](pic/4-7-reading7.png)
+
+还进行了各种语义上的分析，意思就是更难，就不再赘述了。
+
+主要贡献还是这一套数据集，让后人可以开刷了。

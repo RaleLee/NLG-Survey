@@ -20,15 +20,15 @@ A Context-aware Natural Language Generator for Dialogue Systems -- 已读
 
 ## 2017
 
-### [Seqgan: Sequence generative adversarial nets with policy gradient](https://ojs.aaai.org/index.php/AAAI/article/view/10804)——AAAI2017
+### [Seqgan: Sequence generative adversarial nets with policy gradient](https://ojs.aaai.org/index.php/AAAI/article/view/10804)——AAAI2017--不是tod
 
-### [Toward controlled generation of text](http://proceedings.mlr.press/v70/hu17e.html)
+### [Toward controlled generation of text](http://proceedings.mlr.press/v70/hu17e.html)--好像还真不是tod
 
-**[A Conditional Variational Framework for Dialog Generation](https://www.aclweb.org/anthology/P17-2080/)**——ACL17
+**[A Conditional Variational Framework for Dialog Generation](https://www.aclweb.org/anthology/P17-2080/)**——ACL17--也不是tod
 
-Natural language generation for spoken dialogue system using rnn encoder-decoder networks.
+Natural language generation for spoken dialogue system using rnn encoder-decoder networks.---已读
 
-Deliberation networks: Sequence generation beyond one-pass decoding. 
+Deliberation networks: Sequence generation beyond one-pass decoding. --不是tod
 
 ## 2018
 
